@@ -25,7 +25,7 @@ make run
 
 ```
 
-### Clean execution data
+### Cleaning execution data
 ```
 make clean
 
